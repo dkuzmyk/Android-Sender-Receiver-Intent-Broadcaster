@@ -1,4 +1,4 @@
-Application A1 defines a dangerous level permission In addition, A1 defines an activity containing two
+1. Application A1 defines a dangerous level permission In addition, A1 defines an activity containing two
 read-only text views and two buttons. The buttons, when selected, will first show a short
 toast message, then broadcast two different intents (e.g., attractions and restaurants)
 depending on the button pressed. The text views describe the meaning of the buttons to
