@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">project_3_receiver</string>
+
+    <string-array name="interest_array">
+        <item>Millenium Park</item>
+        <item>Cloud Gate</item>
+        <item>The Magnificent Mile</item>
+        <item>Skydeck Chicago</item>
+        <item>Chicago Skyline</item>
+        <item>Wrigley Building</item>
+        <item>Buckingham Fountain</item>
+        <item>Michigan Av Bridge</item>
+    </string-array>
+    <string-array name="interest_websites">
+        <item>https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html</item>
+        <item>https://www.choosechicago.com/articles/tours-and-attractions/the-bean-chicago/</item>
+        <item>https://www.themagnificentmile.com/</item>
+        <item>https://www.citypass.com/chicago/skydeck-chicago</item>
+        <item>https://wikitravel.org/en/Chicago_skyline_guide</item>
+        <item>https://www.enjoyillinois.com/explore/listing/wrigley-building</item>
+        <item>https://www.chicagoparkdistrict.com/parks-facilities/clarence-f-buckingham-memorial-fountain</item>
+        <item>https://chicagoloopbridges.com/bridges12/MS12/MICH12-6.html</item>
+    </string-array>
+
+    <string-array name="restaurant_array">
+        <item>The Whale Chicago</item>
+        <item>Kennedy Rooftop</item>
+        <item>Au Cheval</item>
+        <item>The Purple Pig</item>
+        <item>Girl And The Goat</item>
+        <item>Cerise Rooftop</item>
+        <item>Penumbra</item>
+        <item>Pequods Pizzeria</item>
+    </string-array>
+    <string-array name="restaurant_websites">
+        <item>https://www.thewhalechicago.com/</item>
+        <item>https://www.kennedyrooftop.com/</item>
+        <item>https://www.yelp.com/biz/au-cheval-chicago</item>
+        <item>https://www.thepurplepigchicago.com/</item>
+        <item>https://www.girlandthegoat.com/</item>
+        <item>https://www.virginhotels.com/chicago/dine-and-drink/cerise/</item>
+        <item>https://penumbrawinebar.com/menu</item>
+        <item>https://www.pequodspizza.com/</item>
+    </string-array>
+
+
+</resources>
